@@ -37,10 +37,9 @@
 # Cell Phone Service > Recommended Hardware
 ^
 
-* M5 "Card Phone"
+* [M5 "Card Phone"](https://smile.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=m5+phone)
 ^
-* J8 "Beat the BOSS" Phone
-^
+* [J8 "Beat the BOSS" Phone](https://smile.amazon.com/LONG-CZ-J8-Bluetooth-earphone-radiation/dp/B01MTVBXQJ/)
 
 
 ---
@@ -66,27 +65,53 @@
 ---
 
 
+# Laptop > Chromebook
 
-# Laptop
 
-* Chromebook
-* Pi-Top
+---
+
+
+# Laptop > Pi-Top
+
 * Setup Checklist
 
 
 ---
 
 
-# Internet Access
+# Internet Access > Guidelines 
+^
 
-* Mobile Hotspot (See Getting the Sim Card)
-* Never without VPN!
-* Never without VPN!
-* Tiny Hardware Firewall or TP-Link
+* 1st Rule of DEFCON Internet: Never without VPN!
+^
+* 2nd Rule of DEFCON Internet: Never without VPN!
+^
+* Stay Off The Open Network!
+^
+* Secured Wi-Fi requires sideloading a Certificate
+^
+* Recommend bringing a Mobile Hotspot
+^
+* Portable Firewall
+^
 
 ---
 
-# Navigating DEFCON
+
+# Internet Access > Mobile Hotspot
+
+
+---
+
+# Internet Access > Portable Firewall
+
+* Tiny Hardware Firewall
+* OpenWRT on TP-Link TL-MR3040
+
+
+---
+
+# Navigating DEFCON Itself
 
 * Unofficial FAQ
 * Don't Pressure Yourself to goto talks
@@ -96,6 +121,10 @@
 * Linecon - Go 1:30 to 2:00 hours early for your ticket
 * Swag on Day One
 * Bring an Extra Suitcase for swag. (Especially if you are also going to Black Hat.)
+
+---
+
+
 * Moneies
     - Bring cash.
         - At least enough for DEFCON Ticket.
@@ -104,6 +133,9 @@
     - If cash makes you nervous, Use pre-paid debit cards.
     - Most vendors and or restaurants are probably okay.
     - There's always Traveller's Checks.
+
+---
+
 * Notebook and Pen
 * Insoles for your shoes
 * Handheld HAM Radio
@@ -116,7 +148,8 @@
 * If you can afford it, Hotel at the Conference
     - Shit comfortably.
     - Crowded talks are broadcast on the hotel's cable.
-* "$20 Sandwich"
+    - Drop off your swag.
+* "$20 Sandwich" during check-in
 * Bug sweep the Hotel Room
 * Door Alarm
 * Reverse Door Stop (Room Rushing)
