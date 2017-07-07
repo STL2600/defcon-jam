@@ -183,6 +183,22 @@
 
 ---
 
+# Laptop > Overview of Pi-Top Setup
+^
+
+(This is the really clever bit)
+
+* Make a backup image of the final SD card.
+^
+* Make several copies onto several different cards.
+^
+* Swap SD Cards out regularly.  At least once a day.
+^
+* Every day is like having a fresh new system!
+
+
+---
+
 # Internet Access > Guidelines 
 ^
 
