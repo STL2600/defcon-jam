@@ -187,7 +187,6 @@
     * Restrict access to proc
     ^
     * Limit Processes per user
-
  
 ---
 
@@ -256,9 +255,9 @@
 
 # Internet Access > Portable Firewall
 
-* OpenWRT on TP-Link TL-MR3040 (https://wiki.openwrt.org/toh/tp-link/tl-mr3040)
+* OpenWRT on [TP-Link TL-MR3040](https://wiki.openwrt.org/toh/tp-link/tl-mr3040)
 ^
-* Install TP-Link on your router with an extranl usb drive as root (https://wiki.openwrt.org/doc/howto/extroot)
+* Install TP-Link on your router with an [extranl usb drive as root](https://wiki.openwrt.org/doc/howto/extroot)
 ^
 * Install the OpenVPN plugin
 ^
@@ -282,6 +281,13 @@
 ^
 * Turn off all syncing before reaching Vegas
 ^
+
+---
+
+# Android devices (Because I don't use an iPhone)
+^
+
+
 * Remove unecessary apps.
 ^
 * Setup a second account on your phone
