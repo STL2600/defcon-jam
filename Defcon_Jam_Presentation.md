@@ -256,8 +256,15 @@
 
 # Internet Access > Portable Firewall
 
-* Tiny Hardware Firewall
-* OpenWRT on TP-Link TL-MR3040
+* OpenWRT on TP-Link TL-MR3040 (https://wiki.openwrt.org/toh/tp-link/tl-mr3040)
+^
+* Install TP-Link on your router
+^
+* Install the OpenVPN plugin
+^
+* Demo!
+^
+
 
 ---
 
