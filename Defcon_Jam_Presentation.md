@@ -258,7 +258,7 @@
 
 * OpenWRT on TP-Link TL-MR3040 (https://wiki.openwrt.org/toh/tp-link/tl-mr3040)
 ^
-* Install TP-Link on your router
+* Install TP-Link on your router with an extranl usb drive as root (https://wiki.openwrt.org/doc/howto/extroot)
 ^
 * Install the OpenVPN plugin
 ^
