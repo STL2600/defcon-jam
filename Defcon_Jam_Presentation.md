@@ -89,6 +89,32 @@
 ---
 
 # Laptop > Chromebook
+^
+
+* Low-cost, web-based laptops targeted at casual users and education
+^
+
+---
+
+# Laptop > Chromebook Setup
+^
+
+* Setup a clean Google account, not tied to your primary.
+^
+* Powerwash the chromebook to remove all traces of your primary identity.
+^
+* Log in to the burner account on the crombook.
+^
+
+---
+
+# Laptop > Chromebook Teardown
+^
+
+* Powerwash the chromebook to remove all traces of your burner identity.
+^
+* Use google data takeout to export all the data from the burner account.
+^
 
 ---
 
